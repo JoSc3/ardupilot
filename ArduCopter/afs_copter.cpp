@@ -1,3 +1,5 @@
+// Adding text to check custom firmware compilaton.
+
 /*
   copter specific AP_AdvancedFailsafe class
  */
